@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f505cdff-b6c9-49c8-94af-c47c1c1ab978" name="Changes" comment="add print" />
+    <list default="true" id="f505cdff-b6c9-49c8-94af-c47c1c1ab978" name="Changes" comment="add calculator.py">
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731878986775</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add calculator.py">
+      <option name="closed" value="true" />
+      <created>1731879202437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731879202437</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add print" />
-    <option name="LAST_COMMIT_MESSAGE" value="add print" />
+    <MESSAGE value="add calculator.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add calculator.py" />
   </component>
 </project>
